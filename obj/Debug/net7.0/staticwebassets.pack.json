@@ -1,0 +1,773 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\selling_course.bundle.scp.css",
+      "PackagePath": "staticwebassets\\selling_course.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\fonts\\flaticonea25.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticonea25.eot"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\fonts\\flaticonea25.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticonea25.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\fonts\\flaticonea25.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticonea25.ttf"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\fonts\\flaticonea25.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticonea25.woff"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\fonts\\flaticonea25.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticonea25.woff2"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\about\\about_image_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about_image_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\about\\about_image_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about_image_2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\about\\about_image_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about_image_3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\about\\about_image_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about_image_4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\about\\about_image_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about_image_5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\advertisement\\grid_img_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\advertisement\\grid_img_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\advertisement\\grid_img_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\advertisement\\grid_img_2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\advertisement\\grid_img_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\advertisement\\grid_img_3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\advertisement\\grid_img_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\advertisement\\grid_img_4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\banner\\hero_banner_img_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\hero_banner_img_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\banner\\hero_banner_img_2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\hero_banner_img_2.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\banner\\hero_banner_img_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\hero_banner_img_3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\banner\\hero_banner_img_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\hero_banner_img_4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\banner\\hero_banner_img_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\hero_banner_img_5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\banner\\icons_group.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\icons_group.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\banner\\page_banner_image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\page_banner_image.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\banner\\page_banner_image_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\page_banner_image_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_author_image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_author_image.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_details_image_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_details_image_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_details_image_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_details_image_2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_details_image_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_details_image_3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_10.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_11.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_12.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_13.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_6.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_7.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_8.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_img_9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_img_9.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_small_img_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_small_img_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_small_img_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_small_img_2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_small_img_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_small_img_3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_small_img_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_small_img_4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\blog\\blog_small_img_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog_small_img_5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\brands\\logo_alphabet.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\logo_alphabet.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\brands\\logo_amazon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\logo_amazon.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\brands\\logo_cisco.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\logo_cisco.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\brands\\logo_infopulse.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\logo_infopulse.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\brands\\logo_intel.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\logo_intel.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\brands\\logo_microsoft.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\logo_microsoft.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\brands\\logo_verizon_communications.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\logo_verizon_communications.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\brands\\logo_wix_com_website.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\logo_wix_com_website.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_details_image_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_details_image_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_10.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_11.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_12.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_13.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_14.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_15.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_16.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_17.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_6.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_7.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_8.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\course\\course_image_9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\course\\course_image_9.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\error_image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error_image.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\event\\event_details_image_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\event_details_image_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\event\\event_details_image_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\event_details_image_2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\event\\event_details_image_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\event_details_image_3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\event\\event_details_image_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\event_details_image_4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\event\\event_image_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\event_image_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\event\\event_image_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\event_image_2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\event\\event_image_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\event_image_3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\event\\event_image_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\event_image_4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\event\\event_image_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\event_image_5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\event\\event_image_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\event\\event_image_6.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\icon\\icon_calendar.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\icon_calendar.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\icon\\icon_clip.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\icon_clip.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\icon\\icon_clip_white.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\icon_clip_white.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\icon\\icon_desktop.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\icon_desktop.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\icon\\icon_quote.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon\\icon_quote.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\logo\\favourite_icon_1.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\favourite_icon_1.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\logo\\site_logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\site_logo.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\logo\\site_logo_2.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\site_logo_2.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\mentor\\mentor_details_image_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mentor\\mentor_details_image_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\mentor\\mentor_image_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mentor\\mentor_image_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\mentor\\mentor_image_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mentor\\mentor_image_2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\mentor\\mentor_image_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mentor\\mentor_image_3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\mentor\\mentor_image_4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mentor\\mentor_image_4.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\mentor\\mentor_image_5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mentor\\mentor_image_5.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\mentor\\mentor_image_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mentor\\mentor_image_6.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\meta\\student_thumbnail_1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\meta\\student_thumbnail_1.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\meta\\student_thumbnail_2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\meta\\student_thumbnail_2.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\meta\\student_thumbnail_3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\meta\\student_thumbnail_3.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\meta\\student_thumbnail_4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\meta\\student_thumbnail_4.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\meta\\student_thumbnail_5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\meta\\student_thumbnail_5.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\meta\\student_thumbnail_6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\meta\\student_thumbnail_6.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\meta\\student_thumbnail_7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\meta\\student_thumbnail_7.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\meta\\testimonial_thumbnail_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\meta\\testimonial_thumbnail_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\service\\icon_academic_cap.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\service\\icon_academic_cap.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\service\\icon_communication.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\service\\icon_communication.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\service\\icon_diploma.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\service\\icon_diploma.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\service\\icon_physics.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\service\\icon_physics.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\shape\\shape_img_1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape_img_1.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\shape\\shape_img_2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape_img_2.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\shape\\shape_img_3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape_img_3.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\shape\\shape_img_4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape_img_4.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\shape\\shape_img_5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape_img_5.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\shape\\shape_img_6.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape_img_6.svg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\shape\\shape_img_7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\shape\\shape_img_7.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\testimonial\\testimonial_img_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\testimonial_img_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\testimonial\\testimonial_img_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\testimonial_img_2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\testimonial\\testimonial_img_3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\testimonial\\testimonial_img_3.png"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\video\\video_poster_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\video\\video_poster_1.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\video\\video_poster_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\video\\video_poster_2.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\images\\video\\video_poster_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\video\\video_poster_3.jpg"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\HK7\\Công nghệ phần mềm\\selling_course\\selling_course\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.selling_course.props",
+      "PackagePath": "build\\selling_course.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.selling_course.props",
+      "PackagePath": "buildMultiTargeting\\selling_course.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.selling_course.props",
+      "PackagePath": "buildTransitive\\selling_course.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.selling_course.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
